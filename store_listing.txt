@@ -1,0 +1,60 @@
+═══════════════════════════════════════════════════════
+ GOOGLE PLAY STORE LISTING — FixEase v1.0.0
+═══════════════════════════════════════════════════════
+
+APP NAME: FixEase — AI Car Diagnostics
+
+SHORT DESCRIPTION (80 chars):
+AI-powered car diagnostics. Symptoms, photos, or live video — instant results.
+
+FULL DESCRIPTION:
+FixEase is your personal AI mechanic, available 24/7. Diagnose your car's health using symptoms, photos, or real-time video — powered by Google's Gemini AI.
+
+★ SMART DIAGNOSTICS
+• Urgent Mode — Select symptoms, set severity, get instant AI analysis
+• Photo Mode — Snap up to 8 photos of the issue; AI detects damage, leaks, wear
+• Gemini Live (Beta) — Point your camera and chat with AI in real-time
+
+★ HEALTH SCORING
+• Overall health score (0–10) with confidence rating
+• Component breakdown: Engine, Brakes, Transmission, Electrical, Suspension
+• Visual radar chart for at-a-glance health fingerprint
+• Track health over time with saved reports
+
+★ FULL REPORTS
+• AI summary with possible causes and actionable recommendations
+• Urgency alerts for critical issues
+• Report history with search, view, and delete
+• Export-ready detailed breakdowns
+
+★ 500+ VEHICLES
+• 60+ brands including Indian market favorites
+• Maruti Suzuki, Tata, Mahindra, Hyundai, Honda, Toyota, BMW, Mercedes, and more
+• Dynamic car images with brand-specific styling
+
+★ SUBSCRIPTION PLANS
+• Free — 3 diagnostics/month, basic features
+• Premium ($4.99/mo) — 25 diagnostics, radar charts, PDF export, 5 vehicles
+• Pro ($9.99/mo) — Unlimited everything + Gemini Live + priority support
+
+★ PRIVACY-FIRST
+• Works offline with local AI fallback
+• Optional cloud sync via Supabase
+• No ads, no tracking
+
+CATEGORY: Auto & Vehicles
+CONTENT RATING: Everyone
+TAGS: car diagnostic, OBD, vehicle health, AI mechanic, car scanner, auto repair
+
+═══════════════════════════════════════════════════════
+ SCREENSHOT DESCRIPTIONS (for asset creation)
+═══════════════════════════════════════════════════════
+
+1. HOME — Dark glass UI with vehicle hero image, health score ring, quick actions
+2. DIAGNOSE — Three diagnostic modes: Urgent, Photo, Gemini Live (Beta)
+3. URGENT WIZARD — Symptom chips, severity selector, AI analyzing state
+4. PHOTO DIAGNOSIS — Camera/gallery capture, image grid, AI results
+5. REPORT DETAIL — Health ring, radar chart, component bars, recommendations
+6. REPORTS LIST — History cards with mini health rings, swipe to delete
+7. PAYWALL — Three plan cards, comparison table, subscribe button
+8. GEMINI LIVE — Chat UI with LIVE badge, camera capture, AI bubbles
